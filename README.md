@@ -1,2 +1,2 @@
 # Pentago-Game
-Prosty projekt uczący podstaw programowania. Zrealizowany w 2021 roku na pierwszym semestrze studiów automatyki i robotyki.
+A simple programming fundamentals learning project. Implemented in 2021 during the first semester of automation and robotics studies.
